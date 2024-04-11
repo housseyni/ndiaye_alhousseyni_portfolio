@@ -2,6 +2,7 @@
   "name": "portolio-new",
   "type": "module",
   "version": "0.0.1",
+  
   "scripts": {
     "dev": "astro dev",
     "start": "astro dev",
@@ -14,4 +15,6 @@
     "@astrojs/check": "^0.5.10",
     "typescript": "^5.4.3"
   }
+
+  
 }
