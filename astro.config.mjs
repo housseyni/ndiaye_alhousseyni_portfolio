@@ -11,10 +11,10 @@ export default defineConfig({
   pages: {
     src: "src/pages/**/*.astro",
   },
-  // Public folder is used to serve static files that don’t need to be processed by Astro. This can include anything in the `public` directory, such as images, fonts, or other assets.
   public: {
     src: ["public"],
   },
-  
-}); 
-
+  projectRoot: ".",
+  // Définir la base à la racine du domaine
+  base: "/",
+});
