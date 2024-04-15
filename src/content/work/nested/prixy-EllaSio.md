@@ -4,11 +4,10 @@ publishDate: 2020-03-04 00:00:00
 img: /assets/EllaSio.jpg
 img_alt: Pearls of silky soft white cotton, bubble up under vibrant lighting
 description: |
-  SIte web pour rerserver une salle de réunion
+  Ce projet consiste en une plateforme de réservation en ligne pour les salles de réunion. Les utilisateurs peuvent consulter les disponibilités, choisir une salle adaptée à leurs besoins, et réserver en quelques clics. Les notifications sont envoyées pour confirmer les réservations. Les administrateurs gèrent les réservations et ajoutent de nouvelles salles si nécessaire.
 tags:
   - Design
   - Dev
-  
 ---
 
 <!DOCTYPE html>
